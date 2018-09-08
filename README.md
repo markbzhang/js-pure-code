@@ -1,0 +1,1 @@
++ [1Create a cached version of a pure function](https://github.com/markbzhang/js-pure-code.git/demoa1.html)
