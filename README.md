@@ -7,3 +7,4 @@
 + [3利用剪切板JS API优化输入框的粘贴体验](https://github.com/markbzhang/js-pure-code/blob/master/demoa3.js)
 + [4jQuery增加option](https://github.com/markbzhang/js-pure-code/blob/master/demoa4.js)
 + [5canvas 画比例圆圈](https://github.com/markbzhang/js-pure-code/blob/master/demoa5.js)
++ [6块级作用域使立即执行函数表达式（IIFE）不再必要](https://github.com/markbzhang/js-pure-code/blob/master/demoa6.js)
