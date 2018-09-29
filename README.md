@@ -1,6 +1,8 @@
 #  说明
 
 各种javascript功能片段，take it , get it , handle it ! Well done ,man!
+一起动手一起学，欢迎来Fork！详情看[github](https://github.com/markbzhang/js-pure-code)出处!
+
 
 + [1Create a cached version of a pure function](https://github.com/markbzhang/js-pure-code/blob/master/demoa1.js)
 + [2HTML5本地存储-localStorage如何实现定时存储](https://github.com/markbzhang/js-pure-code/blob/master/demoa2.js)
