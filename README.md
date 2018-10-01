@@ -12,7 +12,7 @@
 + [6块级作用域使立即执行函数表达式（IIFE）不再必要](https://github.com/markbzhang/js-pure-code/blob/master/demoa6.js)
 + [7获取一个月后的日期](https://github.com/markbzhang/js-pure-code/blob/master/demoa7.js)
 + [8在各种环境取顶层对象](https://github.com/markbzhang/js-pure-code/blob/master/demoa8.js)
-
++ [9判断各种客户端](https://github.com/markbzhang/js-pure-code/blob/master/demoa9.js)
 
 
 
