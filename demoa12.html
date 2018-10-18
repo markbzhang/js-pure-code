@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <script>
-        window.opener.postMessage('我是来自dotName域名的消息', 'http://www.zhangbing.club/images/file/postmessage.html');
+        window.opener.postMessage('我是来自dotName域名的消息', 'http://www.zhangbing.club');
 
         window.addEventListener('message', function(e) {
             document.getElementById('childdiv').innerHTML = e.data;
