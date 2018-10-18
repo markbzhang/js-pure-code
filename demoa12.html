@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>child</title>
 
 </head>
 <body>
@@ -17,6 +17,7 @@
             function receiveMessage(event)
             {
                 // 我们能信任信息来源吗？
+                console.log(event.origin);
                 if (event.origin !== "http://www.zhangbing.club") return;
 
                 document.getElementById('childdiv').innerHTML = event.data;
