@@ -9,14 +9,14 @@
         window.opener.postMessage('我是来自dotName域名的消息', 'http://www.zhangbing.club/images/file/postmessage.html');
 
         window.addEventListener('message', function(e) {
-            document.write(e.data);
+            document.getElementById('childdiv').innerHTML = e.data;
         },false);
 
     </script> 
 </head>
 <body>
     
-
+        <div id="childdiv"></div>
 
 </body>
 </html>
