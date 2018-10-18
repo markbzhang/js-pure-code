@@ -10,14 +10,14 @@
 <body>
     
         <div id="childdiv"></div>
-        
+
         <script type="text/javascript">
 
 
             function receiveMessage(event)
             {
                 // 我们能信任信息来源吗？
-                if (event.origin !== "http://www.zhangbing.name") return;
+                if (event.origin !== "http://www.zhangbing.club") return;
 
                 document.getElementById('childdiv').innerHTML = event.data;
 
