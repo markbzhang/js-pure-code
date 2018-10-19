@@ -20,12 +20,14 @@
                 console.log(event.origin);
                 if (event.origin !== "http://www.zhangbing.club") return;
 
+                   
                 document.getElementById('childdiv').innerHTML = event.data;
 
 
                 // 假设你已经验证了所受到信息的origin (任何时候你都应该这样做), 一个很方便的方式就是把enent.source
                 // 作为回信的对象，并且把event.origin作为targetOrigin
-                event.source.postMessage("我是来自dotName域名的消息",event.origin);
+                var a = event.data.split("|"); 
+                event.source.postMessage("我是来自dotName域名的消息 |  接收的随机数是："+a[1]+"| 现在反馈给你",event.origin);
             }
 
             window.addEventListener("message", receiveMessage, false);
