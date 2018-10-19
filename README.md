@@ -15,4 +15,4 @@
 + [9判断各种客户端](https://github.com/markbzhang/js-pure-code/blob/master/demoa9.js)
 + [10监听script的完成事件](https://github.com/markbzhang/js-pure-code/blob/master/demoa10.js)
 + [11获取URL地址中的GET参数](https://github.com/markbzhang/js-pure-code/blob/master/demoa11.js)
-
++ [12通过window.postMessage跨域](http://www.zhangbing.club/images/file/postmessage.html)
