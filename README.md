@@ -16,3 +16,4 @@
 + [10监听script的完成事件](https://github.com/markbzhang/js-pure-code/blob/master/demoa10.js)
 + [11获取URL地址中的GET参数](https://github.com/markbzhang/js-pure-code/blob/master/demoa11.js)
 + [12通过window.postMessage跨域](http://www.zhangbing.club/images/file/postmessage.html)
++ [13异步并发执行，按顺序输出的函数封装](https://github.com/markbzhang/js-pure-code/blob/master/demoa13.js)
